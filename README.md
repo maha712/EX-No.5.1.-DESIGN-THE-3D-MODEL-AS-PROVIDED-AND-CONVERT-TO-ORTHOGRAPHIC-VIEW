@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![MAHA 5 1_page-0001](https://user-images.githubusercontent.com/121156360/215449425-563cb247-1d02-41d5-849e-830e87a7c196.jpg)
 
 
 ## RESULT:
